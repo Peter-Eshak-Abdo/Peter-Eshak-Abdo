@@ -30,4 +30,13 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCdt02aWMr-mlqM2eC8A_brg)
 <!--![freeCodeCamp points](https://img.shields.io/freecodecamp/points/tofa7a)-->
 
+- ### I’m currently learning
+![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+
+<!--![Ubuntu Package Version](https://img.shields.io/ubuntu/v/ubuntu-noble)-->
+
+
+
 
