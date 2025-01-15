@@ -51,6 +51,14 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
+## 📊 Stats
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="190" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Peter-Eshak-Abdo&theme=midnight-purple&langs_count=12&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Peter-Eshak-Abdo&theme=midnight-purple&langs_count=8&layout=compact" />
+</a>
+
  ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:petereshak11@gmail.com)](mailto:petereshak11@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01221331602)
