@@ -17,8 +17,11 @@
 
 ![Readme Views](https://visitor-badge.laobi.icu/badge?page_id=Peter-Eshak-Abdo.readme&title=Readme%20Views)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Peter-Eshak-Abdo&theme=algolia)
+
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Peter-Eshak-Abdo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=rank&theme=midnight-purple)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Peter-Eshak-Abdo&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=Peter-Eshak-Abdo&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 
 ### Languages and Tools 🛠 : 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -48,6 +51,7 @@
 ![typescript](https://img.shields.io/badge/-typescript-2e72bc?style=flat-square&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-redux-7348b6?style=flat-square&logo=redux&logoColor=ffffff)
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
