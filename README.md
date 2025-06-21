@@ -23,6 +23,8 @@
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Peter-Eshak-Abdo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=rank&theme=midnight-purple)
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Peter-Eshak-Abdo&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 
+[![roadmap.sh](https://roadmap.sh/card/wide/658a04cd54b57710513fdc41?variant=dark)](https://roadmap.sh)
+
 ### Languages and Tools 🛠 : 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
