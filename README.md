@@ -3,10 +3,10 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 - <h3>🚀 About Me</h3> 
-- I'm 19 years.
+- I'm 20 years.
 - studying in the faculty of computer and information at Suze Canal University. (Second year)
 - 👀 I’m interested in Football ( Hala Madrid, fan).
-- 💞️ I’m looking to be at first front-end web
+- 💞️ I’m looking to be at first front-end web develober
 - 📫 How to reach me Tel: 01221331602  || 01202224602
 - 😄 Pronouns: Tofa7a 
 - I live in Ismailia, Egypt.
