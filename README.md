@@ -19,8 +19,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Peter-Eshak-Abdo&theme=algolia)
-
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Peter-Eshak-Abdo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=rank&theme=midnight-purple)
+<p style="display:inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Peter-Eshak-Abdo&" alt="Peter-Eshak-Abdo" /></p>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Peter-Eshak-Abdo&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/658a04cd54b57710513fdc41?variant=dark)](https://roadmap.sh)
